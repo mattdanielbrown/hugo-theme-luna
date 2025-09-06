@@ -21,7 +21,7 @@
         "autoprefixer": "^10.4.21",
         "cssnano": "^6.1.2",
         "cssnano-preset-advanced": "^6.1.2",
-        "postcss-cli": "^10.1.0",
+        "postcss-cli": "^11.0.1",
         "postcss-easing-gradients": "^3.0.1",
         "postcss-font-display": "^0.3.0",
         "postcss-pxtorem": "^6.1.0",
